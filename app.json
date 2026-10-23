@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Varavu Selavu Offline",
+    "slug": "varavu-selavu-offline",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.storyline.varavuselavuoffline",
+      "versionCode": 2
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b614d879-3fae-4467-9477-ef2884a9f994"
+      }
+    }
+  }
+}
